@@ -1,0 +1,11 @@
+com\jora\toyrobot\simulator\ToyRobot.class
+com\jora\toyrobot\simulator\Board.class
+com\jora\toyrobot\exception\ToyRobotException.class
+com\jora\toyrobot\Game$1.class
+com\jora\toyrobot\ToyRobotEntryPoint.class
+com\jora\toyrobot\simulator\SquareBoard.class
+com\jora\toyrobot\simulator\Command.class
+com\jora\toyrobot\simulator\Position.class
+com\jora\toyrobot\Game.class
+com\jora\toyrobot\simulator\Direction.class
+com\jora\toyrobot\simulator\Position$1.class

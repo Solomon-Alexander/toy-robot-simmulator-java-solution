@@ -76,10 +76,10 @@ c)
 
 ## Compile, Test, Run and Packaging
 
-- Compile: `mvn compile`
+- Compile: 'mvn compile'
 
-- Test: `mvn test`
+- Test: 'mvn test'
 
-- Run: `mvn exec:java`
+- Run: 'mvn exec:java'
 
-- Packaging: `mvn package`, compiled jar in *target/* folder
+- Packaging: 'mvn package', compiled jar in *target/* folder
